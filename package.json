@@ -1,0 +1,19 @@
+{
+  "name": "stardew-valley-guide",
+  "version": "1.0.0",
+  "description": "Stardew Valley guide",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
