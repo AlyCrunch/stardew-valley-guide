@@ -1,6 +1,8 @@
 import { Bundle, BundleColor } from "./_type";
+import Icon from "./img/Summer_Foraging_Bundle.png";
 const Summer_Foraging: Bundle = {
     id: "Summer_Foraging",
+    icon: Icon,
     color: BundleColor.Yellow,
     slots_count: 4,
     items: [

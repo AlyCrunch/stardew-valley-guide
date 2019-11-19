@@ -143,7 +143,6 @@ import Woodskip from "./img/Woodskip.png";
 import Wool from "./img/Wool.png";
 import Yam from "./img/Yam.png";
 
-
 export {
     Apple,
     Apricot,
